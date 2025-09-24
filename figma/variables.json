@@ -1,0 +1,126 @@
+[
+  {
+    "id": "VariableCollectionId:1:2",
+    "name": "Collection 1",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "1:0"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:1:3",
+        "name": "radius/none",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0
+        }
+      },
+      {
+        "id": "VariableID:1:4",
+        "name": "radius/sm",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 2
+        }
+      },
+      {
+        "id": "VariableID:1:5",
+        "name": "radius/base",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 4
+        }
+      },
+      {
+        "id": "VariableID:1:6",
+        "name": "radius/md",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 6
+        }
+      },
+      {
+        "id": "VariableID:1:7",
+        "name": "radius/lg",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 8
+        }
+      },
+      {
+        "id": "VariableID:1:8",
+        "name": "radius/xl",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 12
+        }
+      },
+      {
+        "id": "VariableID:1:9",
+        "name": "radius/2xl",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 16
+        }
+      },
+      {
+        "id": "VariableID:1:10",
+        "name": "radius/3xl",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 24
+        }
+      },
+      {
+        "id": "VariableID:1:11",
+        "name": "radius/full",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 999
+        }
+      },
+      {
+        "id": "VariableID:1:12",
+        "name": "border/0",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0
+        }
+      },
+      {
+        "id": "VariableID:1:13",
+        "name": "border/1",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 1
+        }
+      },
+      {
+        "id": "VariableID:1:14",
+        "name": "border/2",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 2
+        }
+      },
+      {
+        "id": "VariableID:1:15",
+        "name": "border/4",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 4
+        }
+      },
+      {
+        "id": "VariableID:1:16",
+        "name": "border/8",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 8
+        }
+      }
+    ]
+  }
+]
