@@ -1,0 +1,22 @@
+[
+  {
+    "id": "VariableCollectionId:sem:1",
+    "name": "Semantic Colors",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "1:0"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:sem:primary",
+        "name": "colors/primary",
+        "type": "COLOR",
+        "values": {
+          "1:0": { "r": 0.3098039216, "g": 0.2745098039, "b": 0.8980392157, "a": 1 }
+        }
+      }
+    ]
+  }
+]
