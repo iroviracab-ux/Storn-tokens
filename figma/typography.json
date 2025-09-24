@@ -1,0 +1,14 @@
+[
+  { "name": "typography/h1", "family": "Inter", "weight": 600, "sizePx": 32, "lineHeightPx": 40 },
+  { "name": "typography/h2", "family": "Inter", "weight": 600, "sizePx": 24, "lineHeightPx": 32 },
+  { "name": "typography/h3", "family": "Inter", "weight": 600, "sizePx": 20, "lineHeightPx": 28 },
+  { "name": "typography/h4", "family": "Inter", "weight": 600, "sizePx": 15, "lineHeightPx": 24 },
+
+  { "name": "typography/title-lg", "family": "Inter", "weight": 500, "sizePx": 15, "lineHeightPx": 24 },
+  { "name": "typography/title-md", "family": "Inter", "weight": 500, "sizePx": 13, "lineHeightPx": 20 },
+  { "name": "typography/title-sm", "family": "Inter", "weight": 500, "sizePx": 11, "lineHeightPx": 20 },
+
+  { "name": "typography/body-lg", "family": "Inter", "weight": 400, "sizePx": 15, "lineHeightPx": 24 },
+  { "name": "typography/body-md", "family": "Inter", "weight": 400, "sizePx": 13, "lineHeightPx": 20 },
+  { "name": "typography/body-sm", "family": "Inter", "weight": 400, "sizePx": 11, "lineHeightPx": 20 }
+]
